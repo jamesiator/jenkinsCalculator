@@ -4,6 +4,7 @@ class Calculator {
 
     /* USELESS COMMENT */
     /* ANOTHER USELESS COMMENT */
+    Code breaking comment.
     Calculator() {
 
     }
