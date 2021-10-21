@@ -3,6 +3,7 @@ import java.util.UUID;
 class Calculator {
 
     /* USELESS COMMENT */
+    /* ANOTHER USELESS COMMENT */
     Calculator() {
 
     }
